@@ -7,4 +7,4 @@ If you are using Jupyter/IPython via the standard course VM, see https://github.
 
 **Be sure to download the _raw_ archive.  Github will happily serve you a file with a `.dbc` extension which is simply an HTML page describing the file, if you download in the wrong place.**
 
-The right method is to first left-click on the lab you want, then click on "**View Raw**" to download the actual file.
+The right method is to first click on the lab you want, and then click on either "**View Raw**" or the **Raw** button to download the actual file.
